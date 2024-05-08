@@ -2,7 +2,9 @@
 
 const coder = {
   name: 'Xolile Nxiweni',
+  
   position: 'Aspiring FullStack Developer',
+  
   location: 'Meadowlands, Soweto, JHB.',
   repositories: 17,
   techStack: [
