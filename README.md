@@ -1,18 +1,3 @@
 ### Hi there 👋
 
-const coder = {
-  name: 'Xolile Nxiweni',
-  
-  position: 'Aspiring FullStack Developer',
-  
-  location: 'Meadowlands, Soweto, JHB.',
-  
-  repositories: 17,
-
-  techStack: [
-    'HTML', 'CSS', 'JavaScript', 'C#', 'Java', 
-    'Node.js', 'Python', 'SQL', 'Azure'
-  ],
-  
-  hirable: true,
-}
+![code](https://github.com/Xoli-Nxiweni/Xoli-NXiweni/assets/120707547/5c88ab8b-1386-44cd-9da1-677ac1688e7a)
