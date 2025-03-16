@@ -41,7 +41,7 @@ I'm a Full Stack Developer dwelling much in the MERN stack. I love building robu
 
 ## 💼 Projects
 
-Check out my repositories below to see some of my featured work!
+Check out my repositories to see some of my featured work!
 
 ## 📫 Let's Connect
 
